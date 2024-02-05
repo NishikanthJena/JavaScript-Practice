@@ -13,6 +13,32 @@ const id = Symbol('123')
 const anotherId = Symbol('123')
 
 console.log(id === anotherId);
+
+// const bigNumber = 3456789876543234n
+
+
 // Reference (Non primitive)
 
 // Array, Objects, Functions
+
+const heros = ["APJ Abdul Kalam", "Virat Kohli"]
+let myObj = {
+    name:"Dev",
+    age:22,
+}
+
+// Function
+// Function Defination - function(){}
+
+const myFunction = function(){
+    console.log("Hey Guys");
+}
+
+// console.log(typeof bigNumber); //undefined
+
+console.log(typeof outsideTemp);   // Object Type
+
+console.log(typeof myFunction);    // Returns - Function Type
+
+
+// All Non Primitive types DataTypes are called Function
