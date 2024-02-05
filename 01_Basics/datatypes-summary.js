@@ -41,4 +41,4 @@ console.log(typeof outsideTemp);   // Object Type
 console.log(typeof myFunction);    // Returns - Function Type
 
 
-// All Non Primitive types DataTypes are called Function
+// All Non Primitive DataTypes are called Function
