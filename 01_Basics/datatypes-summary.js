@@ -42,3 +42,5 @@ console.log(typeof myFunction);    // Returns - Function Type
 
 
 // All Non Primitive DataTypes are called Function
+
+// 
