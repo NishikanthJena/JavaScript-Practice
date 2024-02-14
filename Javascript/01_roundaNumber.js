@@ -9,5 +9,11 @@ console.log(Math.round(2.8)); // Output -> 3
 
 let num = 2.8;
 let roundedDown = Math.floor(2.8);
-console.log(roundedDown);
+console.log(roundedDown);   // Output : 2
+
+// Let's say we want to round a number up (2.2=>3) 
+
+let num1 = 2.2;
+let roundedUp = Math.ceil(2.2);
+console.log(roundedUp);     // Output : 2
 
