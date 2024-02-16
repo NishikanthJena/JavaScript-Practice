@@ -1,3 +1,4 @@
+// Strings = Text
 
 // console.log("hello " + "guys");  // Basic of string 
 
