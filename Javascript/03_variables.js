@@ -20,7 +20,7 @@
 // console.log(123myAge);       //   Bcoz An identifier or keyword cannot immediately follow a numeric literal.
 
 // var $cityName = "New York";  
-// console.log($cityName);          // Vaild
+// console.log($cityName);           // This is a Vaild variable name. It can start with a dollar sign
 
 // var my@Email = "dev@me.com";       // Not Vaild : Decorators - (@) are not valid here.
 // console.log(my@Email);                  
