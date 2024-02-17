@@ -22,6 +22,6 @@
 // var $cityName = "New York";  
 // console.log($cityName);          // Vaild
 
-// var my@Email = "dev@me.com";        // Not Vaild : 
+// var my@Email = "dev@me.com";       // Not Vaild : Decorators - (@) are not valid here.
 // console.log(my@Email);                  
 
