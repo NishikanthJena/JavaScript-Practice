@@ -16,12 +16,14 @@
 // var _myLastName$ = `jen`; 
 // console.log(_myLastName$);       // This is a Vaild variable name
 
-// var 123myAge = 25;            //  Not Vaild : Bcoz Variable name cannot start with numeric value
-// console.log(123myAge);       //   Bcoz An identifier or keyword cannot immediately follow a numeric literal.
+// var 123myAge = 25;               // Not Vaild : Bcoz Variable name cannot start with numeric value
+// console.log(123myAge);           // Bcoz An identifier or keyword cannot immediately follow a numeric literal.
 
 // var $cityName = "New York";  
 // console.log($cityName);           // This is a Vaild variable name. It can start with a dollar sign
 
-// var my@Email = "dev@me.com";       // Not Vaild : Decorators - (@) are not valid here.
-// console.log(my@Email);                  
+// var my@Email = "dev@me.com";      //This is a Not Vaild variable name: It includes the special character '@' which is not allowed in Javascript variable name.
+// console.log(my@Email);           // Only letters, numbers, underscores, and dollar signs are allowed     
+
+// 
 
