@@ -31,4 +31,7 @@ console.log(variable1);
 let calculation = 2+2;
 console.log(calculation);
 
+let result = calculation + 5;
+console.log(result);
+
 
