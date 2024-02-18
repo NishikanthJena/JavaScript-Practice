@@ -25,4 +25,7 @@
 // var my@Email = "dev@me.com";      //This is a Not Vaild variable name: It includes the special character '@' which is not allowed in Javascript variable name.
 // console.log(my@Email);           // Only letters, underscores, and dollar signs are allowed     
 
+let variable1 = 3;
+console.log(variable1);
+
 
