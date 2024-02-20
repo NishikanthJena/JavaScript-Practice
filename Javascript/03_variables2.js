@@ -1,7 +1,7 @@
 // 3 ways to create variables in Js
 
 // let => if we have to change a variable, then use let 
-// const => use const by 
+// const => use const by default
 // var
 
 let variable1 = 3;      
