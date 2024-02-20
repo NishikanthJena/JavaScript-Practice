@@ -21,6 +21,10 @@ console.log(variable1);
 
 const variable2 = 8;
 
+// Best practice = use const by default.
+// (Only use let when we need to change the variable)
+
+
 
 
 
