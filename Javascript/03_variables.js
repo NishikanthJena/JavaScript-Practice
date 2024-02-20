@@ -36,3 +36,6 @@ console.log(result);
 
 variable1 = 5;
 console.log(variable1);
+
+
+
