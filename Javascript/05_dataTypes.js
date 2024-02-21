@@ -52,5 +52,6 @@ console.log(mySymbol);
 //? 1: What is the difference between null and undefined in JavaScript❓
 
 // null: Imagine an Empty Box
+// //* Explanation: Think of a variable as a box. When we say a box has null inside, it's like having an empty box. The box exists, but there's nothing valuable or meaningful inside it.
 
 
