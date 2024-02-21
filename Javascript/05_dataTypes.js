@@ -36,5 +36,13 @@ console.log(badMemories);
 
 //? BigInt: Represents integers of arbitrary precision (available since ECMAScript 2020).
 // Example:
+const bigNumber = 123456789012345678901234567890n;
+console.log(bigNumber);
+
+//? Symbol: Represents a unique and immutable data type, often used to create unique identifiers.
+// Example:
+const mySymbol = Symbol(`description`)
+console.log(mySymbol); 
+
 
 
