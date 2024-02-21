@@ -51,4 +51,6 @@ console.log(mySymbol);
 
 //? 1: What is the difference between null and undefined in JavaScript❓
 
+// null: Imagine an Empty Box
+
 
