@@ -45,4 +45,8 @@ const mySymbol = Symbol(`description`)
 console.log(mySymbol); 
 
 
+//! ============================
+//! Data Types Interview Questions
+//! ============================
+
 
