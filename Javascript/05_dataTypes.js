@@ -11,10 +11,21 @@
 const myName = `Nish`;
 console.log(myName);
 
-
 //? Number: Represents numeric values, including integers and floating-point numbers.
 // Example:
 let myfavNum = 8;
 console.log(myfavNum);
+
+//? Boolean: Represents a logical entity with two values: true or false.
+// Example:
+let isRaining = false;
+let areYouAwesome = true;
+console.log(`Is Raining : `+isRaining );
+console.log(`Are you Awesome : `+areYouAwesome);
+
+//? undefined: Represents the absence of a value or an uninitialized variable.
+// Example:
+const name;
+console.log(name);
 
 
