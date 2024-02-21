@@ -28,4 +28,13 @@ console.log(`Are you Awesome : `+areYouAwesome);
 var name;
 console.log(name);
 
+//? Null: Represents the absence of a value.
+//        It is often used to explicitly indicate that a variable or object property has no assigned value.
+// Example:
+var badMemories = null;
+console.log(badMemories);
+
+//? BigInt: Represents integers of arbitrary precision (available since ECMAScript 2020).
+// Example:
+
 
