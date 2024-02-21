@@ -25,7 +25,7 @@ console.log(`Are you Awesome : `+areYouAwesome);
 
 //? undefined: Represents the absence of a value or an uninitialized variable.
 // Example:
-const name;
+var name;
 console.log(name);
 
 
