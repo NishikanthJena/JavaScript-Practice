@@ -18,3 +18,16 @@
 // Summary: So, null is like having an empty box on purpose, and undefined is like having a box you haven't opened yet. Both tell us that there's nothing meaningful or known inside, but they imply different reasons why.
 
 //todo Real-life Comparison: If you have an empty lunchbox (null), it means you decided not to put any food in it. If you have a closed lunchbox (undefined), it means you haven't checked or filled it yet.
+
+//? 2: What is the purpose of typeof operator in JavaScript❓
+
+const myName = `nish`;
+console.log(myName);
+console.log(typeof myName);
+
+let myAge = 22;
+console.log(myAge);
+console.log(typeof myAge);
+
+//? 3: What is the result of `typeof null` in JavaScript❓
+// Answer: typeod null => is Object
