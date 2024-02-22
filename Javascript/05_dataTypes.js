@@ -45,13 +45,3 @@ const mySymbol = Symbol(`description`)
 console.log(mySymbol); 
 
 
-//! ============================
-//! Data Types Interview Questions
-//! ============================
-
-//? 1: What is the difference between null and undefined in JavaScript❓
-
-// null: Imagine an Empty Box
-// //* Explanation: Think of a variable as a box. When we say a box has null inside, it's like having an empty box. The box exists, but there's nothing valuable or meaningful inside it.
-
-// //? Example: You have a toy box, but if it's null, it means there are no toys inside. It's not that the box is broken; it just doesn't have anything interesting in it right now.
