@@ -31,3 +31,9 @@ console.log(typeof myAge);
 
 //? 3: What is the result of `typeof null` in JavaScript❓
 // Answer: typeod null => is Object
+
+let badMemories = null;
+console.log(badMemories);
+console.log(typeof badMemories);
+
+
