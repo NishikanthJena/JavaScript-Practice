@@ -280,9 +280,4 @@ const { log } = require("console");
 
 // console.log("5" - 3); //Output : 2  bcoz of type coercion
 
-// check whether the string converted to number (or) Number is converted to string?
-// console.log(typeof ("5" - 3));  // Output: Number
-
-// console.log(2 < 12 < 5);     // Output : True
-
-// console.log("20" + 10 + 10);
+;
