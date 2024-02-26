@@ -39,9 +39,9 @@
 //? Declare a function using the function keyword, followed by the function name, parameters (if any), and the function body.
 //? This step defines the function and specifies what code should be executed when the function is called.
 
-function greet() {
-  console.log(`Hello guys, Welcome home`);
-}
+// function greet() {
+//   console.log(`Hello guys, Welcome home`);
+// }
 
 //* =================================================
 //* Function Invocation (Calling a Function):
