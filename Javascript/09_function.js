@@ -39,9 +39,9 @@
 //? Declare a function using the function keyword, followed by the function name, parameters (if any), and the function body.
 //? This step defines the function and specifies what code should be executed when the function is called.
 
-// function greet() {
-//   console.log("Hello Guys, Welcome to Thapa Technical JS Course ");
-// }
+function greet() {
+  console.log(`Hello Guys, Welcome home`);
+}
 
 //* =================================================
 //* Function Invocation (Calling a Function):
@@ -215,15 +215,15 @@
 //! Reverse a String:
 //! Write a function to reverse a given string without using built-in reverse methods.
 
-const isReverse = (str) => {
-  let reverse = "";
-  for (let char = str.length - 1; char >= 0; char--) {
-    reverse = reverse + str[char];
-  }
-  return reverse;
-};
+// const isReverse = (str) => {
+//   let reverse = "";
+//   for (let char = str.length - 1; char >= 0; char--) {
+//     reverse = reverse + str[char];
+//   }
+//   return reverse;
+// };
 
-console.log(isReverse("vinod thapa"));
+// console.log(isReverse("vinod thapa"));
 
 //! Palindrome Check:
 //! Create a function to determine if a given string is a palindrome (reads the same backward as forward).
