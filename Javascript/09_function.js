@@ -242,7 +242,7 @@ function greet() {
   //     return false;
   //   }
 
-  return str === reverse ? true : false;
-};
+//   return str === reverse ? true : false;
+// };
 
-console.log(isPalindrome("level"));
+// console.log(isPalindrome("level"));
