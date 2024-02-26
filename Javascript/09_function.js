@@ -6,20 +6,20 @@
 //  3 students at a same time wants to find the sum of two numbers
 // 1st student
 
-// var a = 10, b = 10;
-// let sum1 = a+b;
-// console.log(sum1); 
+var a = 10, b = 10;
+let sum1 = a+b;
+console.log(sum1); 
 
-// // 2nd student
+// 2nd student
 
-// var a = 15, b = 15;
-// var sum2 = a+b;
-// console.log(sum2);
+var a = 15, b = 15;
+var sum2 = a+b;
+console.log(sum2);
 
-// // 3rd student
-// var a = 20, b = 20;
-// var sum3 = a+b;
-// console.log(sum3);
+// 3rd student
+var a = 20, b = 20;
+var sum3 = a+b;
+console.log(sum3);
 
 // lets make a reusable code
  
