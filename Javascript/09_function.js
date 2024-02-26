@@ -231,11 +231,11 @@ function greet() {
 // // isi     isi
 // radar
 // level
-const isPalindrome = (str) => {
-  let reverse = "";
-  for (let char = str.length - 1; char >= 0; char--) {
-    reverse = reverse + str[char];
-  }
+// const isPalindrome = (str) => {
+//   let reverse = "";
+//   for (let char = str.length - 1; char >= 0; char--) {
+//     reverse = reverse + str[char];
+//   }
   //   if (str === reverse) {
   //     return true;
   //   } else {
