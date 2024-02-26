@@ -40,7 +40,7 @@
 //? This step defines the function and specifies what code should be executed when the function is called.
 
 function greet() {
-  console.log(`Hello Guys, Welcome home`);
+  console.log(`Hello guys, Welcome home`);
 }
 
 //* =================================================
