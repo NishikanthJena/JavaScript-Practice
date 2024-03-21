@@ -31,7 +31,7 @@ let myTimeStamp = Date.now()
 // console.log(Math.floor(Date.now()/1000));   // If you want to convert this from milliseconds to seconds divide by 1000
 
 let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth());
+console.log(newDate);       // 2024-03-21T11:24:04.105Z
+console.log(newDate.getMonth());    // 2
 
 
