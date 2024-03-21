@@ -30,10 +30,21 @@ let myTimeStamp = Date.now()
 // console.log(Date.now());    // This method is used for milliseconds 
 // console.log(Math.floor(Date.now()/1000));   // If you want to convert this from milliseconds to seconds divide by 1000
 
-let newDate = new Date()
+/* let newDate = new Date()
 console.log(newDate);       // 2024-03-21T11:24:04.105Z
 console.log(newDate.getMonth());    // 2
 console.log(newDate.getDay());    // 4
+console.log(newDate.getMonth() + 1); */    //Output : 3  // if you want to increase the month count + 1 
+
+// `${newDate.getMonth()} and the time`
+
+// Most Important Date method 
+let newDate = new Date()
+
+newDate.toLocaleString(`default`, {
+    weekday: "long",
+    // timeZone: `myTimeStamp`
+})
 
 
 
