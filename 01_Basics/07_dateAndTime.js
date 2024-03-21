@@ -15,8 +15,15 @@ console.log(myCreatedDate.toLocaleString()); */   // Output : 8/8/2024, 5:03:00 
 // When you write single digit as months it starts from 0 
 // When you write double digit as months it starts from 01
 
-let myCreatedDate = new Date(`2024-08-08`)
-console.log(myCreatedDate.toLocaleString());  // Output : 8/8/2024, 12:00:00 AM
+/* let myCreatedDate = new Date(`2024-08-08`)  // YYYY-MM-DD
+console.log(myCreatedDate.toLocaleString()); */  // Output : 8/8/2024, 12:00:00 AM
+
+let myCreatedDate = new Date(`08-15-2024`)      // MM-DD-YYYY
+// console.log(myCreatedDate.toLocaleString());     // 8/15/2024, 12:00:00 AM
+
+let myTimeStamp = Date.now()
+console.log(myTimeStamp);
+
 
 
 
