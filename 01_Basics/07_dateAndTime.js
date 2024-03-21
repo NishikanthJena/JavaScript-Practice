@@ -1,4 +1,4 @@
-// Date
+// DATE
 let myDate = new Date()
 // console.log(myDate.toString());
 // console.log(myDate.toDateString());
@@ -21,9 +21,17 @@ console.log(myCreatedDate.toLocaleString()); */  // Output : 8/8/2024, 12:00:00 
 let myCreatedDate = new Date(`08-15-2024`)      // MM-DD-YYYY
 // console.log(myCreatedDate.toLocaleString());     // 8/15/2024, 12:00:00 AM
 
+//TIME
+
 let myTimeStamp = Date.now()
-console.log(myTimeStamp);
 
+// console.log(myTimeStamp);
+// console.log(myCreatedDate.getTime());
+// console.log(Date.now());    // This method is used for milliseconds 
+// console.log(Math.floor(Date.now()/1000));   // If you want to convert this from milliseconds to seconds divide by 1000
 
+let newDate = new Date()
+// console.log(newDate);
+console.log(newDate.getMonth());
 
 
