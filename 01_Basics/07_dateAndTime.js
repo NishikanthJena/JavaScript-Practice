@@ -33,7 +33,9 @@ let myTimeStamp = Date.now()
 let newDate = new Date()
 console.log(newDate);       // 2024-03-21T11:24:04.105Z
 console.log(newDate.getMonth());    // 2
-console.log(newDate.getDay());    // 
+console.log(newDate.getDay());    // 4
+
+
 
 
 
